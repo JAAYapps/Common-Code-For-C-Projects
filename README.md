@@ -1,5 +1,5 @@
 # Common-Code-For-C-Projects
-This is a lite set of defined types and prototypes that can be used with C standard functions. This can be used to decouple your code from the standard library, allowing anyone's code to easily be developed for platforms that do not use the C standard library. The example.c gives implementions of the function prototypes using standard library funcions. 
+This is a lite set of defined types and prototypes that can be used with C standard functions. This can be used to decouple your code from the standard library, allowing anyone's code to easily be developed for platforms that do not use the C standard library. The example.c gives implementations of the function prototypes using standard library functions. 
 
 # Why try to decouple C code? 
 Decoupling C code allows easy migration to a similar library without having to make changes to your source code.
