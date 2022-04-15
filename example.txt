@@ -1,0 +1,4 @@
+Hello common code.
+Read the file correctly.
+This is a good thing.
+Everything is working.
